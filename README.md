@@ -13,4 +13,5 @@ using Git in real-world scenarios.
 The repository initially contains the following files:
 
 - REAasdfasfdsafasf
-- Notes may be added during development (hotfix update)
+
+---
